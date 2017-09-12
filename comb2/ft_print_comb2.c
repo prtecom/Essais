@@ -1,3 +1,6 @@
+/* ----------------- */ 
+/* Proc non std */
+/* ----------------- */
 #include <unistd.h>
 
 int ft_putchar(char c)
